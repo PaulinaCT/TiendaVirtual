@@ -1,4 +1,4 @@
-# TiendaVirtual
+# Tienda Virtual
 **INTRODUCCION** 
 
 **OBJETIVOS**
