@@ -39,6 +39,7 @@ Determinar los temas informativos que se van a desarrollar en la aplicación mó
 Desarrollar una aplicación con una interfaz amigable para que el usuario pueda acceder con facilidad a la oferta de libros que brinda la tienda virtual.
 
 **ANTECEDENTES**
+
 Una tienda en línea (también conocida como tienda online, tienda virtual o tienda electrónica) se refiere a un tipo de comercio que usa como medio principal para realizar sus transacciones un sitio web o una aplicación conectada a Internet. En países de Latinoamérica es común utilizar el anglicismo "e-shop".
 
 **Amazon** empezó como almacén de libros y con los años se ha convertido en la despensa del mundo. En cualquier caso, si quieres hacerte con un buen libro y conseguirlo con bastante celeridad, quizá debas echar un vistazo a su catálogo. De hecho, si estás dado de alta en Amazon Prime, te recomendamos aprovechar los gastos de envío gratis. Puedes realizar búsquedas y recibir los libros que estén en preventa antes que nadie.
@@ -50,12 +51,14 @@ Una tienda en línea (también conocida como tienda online, tienda virtual o tie
 **REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES**
 
   **REQUERIMIENTOS FUNCIONALES**
+  
 RF1: Al ingresar en la aplicación se mostrarán las opciones de Ingresar y Registrarse
 RF2: Al seleccionar “Ingresar” se ingresará el usuario y contraseña.
 RF3: Al seleccionar “Registrarse” se deberá ingresar los siguientes datos: cédula, nombres, apellidos, edad, dirección, teléfono, email (este será el usuario para el inicio de sesión) y una contraseña. 
 RF4: Al seleccionar “Iniciar Sesión” se mostrará un menú de opciones y categorías de los libros de interés y una opción de búsqueda según el interés. 
 
   **REQUERIMIENTOS NO FUNCIONALES**
+  
 RNF1: El sistema contará con una web transaccional y una aplicación móvil.
 RNF2: La aplicación debe tener un manejo intuitivo.
 RNF3: La aplicación poseerá un diseño que sea agradable a la vista.
