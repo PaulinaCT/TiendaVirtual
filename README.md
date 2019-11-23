@@ -50,9 +50,18 @@ Una tienda en línea (también conocida como tienda online, tienda virtual o tie
 **REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES**
 
   **REQUERIMIENTOS FUNCIONALES**
-  
+RF1: Al ingresar en la aplicación se mostrarán las opciones de Ingresar y Registrarse
+RF2: Al seleccionar “Ingresar” se ingresará el usuario y contraseña.
+RF3: Al seleccionar “Registrarse” se deberá ingresar los siguientes datos: cédula, nombres, apellidos, edad, dirección, teléfono, email (este será el usuario para el inicio de sesión) y una contraseña. 
+RF4: Al seleccionar “Iniciar Sesión” se mostrará un menú de opciones y categorías de los libros de interés y una opción de búsqueda según el interés. 
+
   **REQUERIMIENTOS NO FUNCIONALES**
-  
+RNF1: El sistema contará con una web transaccional y una aplicación móvil.
+RNF2: La aplicación debe tener un manejo intuitivo.
+RNF3: La aplicación poseerá un diseño que sea agradable a la vista.
+RNF4: Deberá ser compatible con el api 28 de Android.
+
+
 **CRONOGRAMA**
 
 **DIAGRAMA DE CLASES**
